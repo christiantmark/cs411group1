@@ -1,11 +1,11 @@
 "Project Swap"
 
 Idea
- - Progressive web app with user login
- - Feed of other users clothes and accessories they dont want anymore
- - Like or dislike button, the user can like or dislike. The next piece appears
- - If two users like each others clothing, then there could be a match
- - Clothes exchange
+ - Progressive web app with user Google OAuth login
+ - Displays a feed of other users' clothes and accessories they dont want anymore
+ - Like or dislike button/swiping feature so the user can input which clothing pieces they're interested in. Then, the next piece of clothing appears
+ - If two users like each others clothing, then a match appears and users are able to connect with each other through phone numbers
+ - Users can meet up and swap their clothes
 
 API's 
  - Tinder API
